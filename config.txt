@@ -1,0 +1,4 @@
+token=NTcxMTY5MDMyNDA1OTA5NTM0.XMKa2Q.WykJn5qkxWD7TKgdHz3V-5O6I20 
+owner=345592113636966401
+prefix=@
+game=done for N45@help
